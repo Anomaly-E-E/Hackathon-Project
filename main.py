@@ -6,7 +6,7 @@ from tkinter import *
 import  tkinter as tk
 
 OUTPUT_PATH = Path(__file__).parent
-ASSETS_PATH = OUTPUT_PATH / Path("/Users/Arshan/Desktop/BRS/test/mainassets/frame0")
+ASSETS_PATH = OUTPUT_PATH / Path("/Users/***/***/***/***/mainassets")// WRITE YOUR DIRECTORY FOR THE ASSETS FOR MAIN MODE
 
 
 def relative_to_assets(path: str) -> Path:
