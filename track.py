@@ -6,7 +6,7 @@ from tkinter import PhotoImage, messagebox
 import sqlite3
 import sys
 OUTPUT_PATH = Path(__file__).parent
-ASSETS_PATH = OUTPUT_PATH / Path("/Users/Arshan/Desktop/BRS/test/trackassets/frame0")
+ASSETS_PATH = OUTPUT_PATH / Path("/Users/***/***/***/***/trackassets")// WRITE YOUR DIRECTORY FOR THE ASSETS FOR TRACK MODE
 
 
 
