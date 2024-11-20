@@ -9,7 +9,7 @@ import sqlite3
 
 
 OUTPUT_PATH = Path(__file__).parent
-ASSETS_PATH = OUTPUT_PATH / Path("/Users/Arshan/Desktop/BRS/test/feedbackassets/frame0")
+ASSETS_PATH = OUTPUT_PATH / Path("/Users/***/***/***/***/feedbackassets")// WRITE YOUR DIRECTORY FOR THE ASSETS FOR FEEDBACK MODE
 
 
 
