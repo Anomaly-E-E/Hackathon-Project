@@ -10,7 +10,7 @@ from tkinter import Canvas, Entry, Button, PhotoImage
 
 
 OUTPUT_PATH = Path(__file__).parent
-ASSETS_PATH = OUTPUT_PATH / Path("/Users/Arshan/Desktop/BRS/test/applyassets/frame0")
+ASSETS_PATH = OUTPUT_PATH / Path("/Users/***/****/***/***/applyassets/")// WRITE YOUR DIRECTORY FOR THE ASSETS FOR APPLY MODE
 conn = sqlite3.connect('ewaste.db')
 c = conn.cursor()
 c.execute('''
