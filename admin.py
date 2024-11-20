@@ -7,7 +7,7 @@ from tkinter import ttk
 import sys
 
 OUTPUT_PATH = Path(__file__).parent
-ASSETS_PATH = OUTPUT_PATH / Path("/Users/Arshan/Desktop/BRS/test/adminassets/frame0")
+ASSETS_PATH = OUTPUT_PATH / Path("/Users/***/***/***/****/adminassets")// WRITE YOUR DIRECTORY FOR THE ASSETS FOR ADMIN MODE
 
 
 def relative_to_assets(path: str) -> Path:
