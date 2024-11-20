@@ -4,7 +4,7 @@ from tkinter import Canvas, Button, PhotoImage
 import tkinter as tk
 
 OUTPUT_PATH = Path(__file__).parent
-ASSETS_PATH = OUTPUT_PATH / Path("/Users/Arshan/Desktop/BRS/test/aboutassets/frame0")
+ASSETS_PATH = OUTPUT_PATH / Path("/Users/##/###/##/##/aboutassets") // WRITE YOUR DIRECTORY FOR THE ASSETS FOR ABOUT MODE
 
 
 def relative_to_assets(path: str) -> Path:
